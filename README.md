@@ -268,14 +268,5 @@
 |262|30_民政|养老服务机构.xlsx|
 |263|30_民政|养老机构名录.xlsx|
 |264|Other|全国性行业协会商会参考名单.xls|
-|265|Other|荆门_D738317299017261176483704.xls|
 |266|.|2010-2023年国家社会科学基金立项名单.xlsx|
 |267|.|广东省职业、放射卫生技术服务机构目录.xlsx|
-
-  
-
-### `sponsor`
-<p>
-    <img src=".\__pycache__\alipay.jpg"  height="200vm" style="object-fit:contain" alt="alipy"/>
-    <img src=".\__pycache__\wechat.jpg" height="200vm" style="object-fit:contain" alt="weichat pay"/>
-</p>
